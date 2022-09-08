@@ -59,6 +59,9 @@ In Schools Selected By The College.
   * Make a copy of the fieldwork log: https://docs.google.com/spreadsheets/d/1YZQN9oPk27G1VdN3a9Fvj1SCG4b9M6rYzX0_Fd1VNWc/edit#gid=0
     - After making the copy, please add your name to the title (e.g. JonAlf Dyrland-Weaver Fall 2022 Fieldwork Log)
     - Share it with zamansky@gmail.com, dw@stuycs.org, and konstans@stuy.edu
+  * Upload videos here: https://drive.google.com/drive/folders/13901KCgDwPHEZjEN0tlrGIEzzTzAbSAB?usp=sharing
+    - Make a folder NAME - GRADE LEVEL
+    - Name videos based on topic inside folder
 
 ## Course Content And Organization:
 
