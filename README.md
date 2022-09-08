@@ -62,6 +62,7 @@ In Schools Selected By The College.
   * Upload videos here: https://drive.google.com/drive/folders/13901KCgDwPHEZjEN0tlrGIEzzTzAbSAB?usp=sharing
     - Make a folder NAME - GRADE LEVEL
     - Name videos based on topic inside folder
+    - You can find the consent forms here: <https://drive.google.com/drive/u/0/folders/1uhZEscJgR2TwVPAtz7wzb8JgAtSW2jND>
 
 ## Course Content And Organization:
 
