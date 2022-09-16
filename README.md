@@ -75,7 +75,6 @@ The final project for this class will be a unit plan.
 * The unit should contain all lessons, materials and assignments.
 * Everyone will present their unit plan over the course of the last few class sessions.
 * There will be class time for unit plan work & feedback.
-* We will spend time discussing unit plan next week.
 
 ## Course Content And Organization:
 
