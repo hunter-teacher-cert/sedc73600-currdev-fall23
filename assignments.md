@@ -11,6 +11,23 @@ Asynchronous work is meant to take up the balance of our class time, since our l
 
 ---
 
+# Session 02: 09/15
+## Assignment
+* title: **02_new-course.md**
+* Come up with an idea for a new comptuer science course that you would teach at your current school.
+* Make sure to include the following:
+  * General description of the course
+  * Target audiance
+  * Where it fits along with the other courses in your school
+
+## Async
+* In the \#async_curdev slack channel:
+  * Share a topic that you are considering to use for the unit plan project.
+  * Explain what class it would fit into, and why you chose this particular topic.
+  * What computer science curricular needs does this topic fill?
+
+---
+
 # Session 01: 09/08
 ## Assignment:
 * filename: **01_compare.md**

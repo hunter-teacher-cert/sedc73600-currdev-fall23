@@ -64,6 +64,19 @@ In Schools Selected By The College.
     - Name videos based on topic inside folder
     - You can find the consent forms here: <https://drive.google.com/drive/u/0/folders/1uhZEscJgR2TwVPAtz7wzb8JgAtSW2jND>
 
+## Unit Plan Project
+The final project for this class will be a unit plan.
+* You may work individually, opr in groups up to 3 people large.
+* Unit plan for a course/unit you have not taught.
+* The plan must cover at least a two week long unit.
+  - This may vary depending on your particular school schedule. Consider 10 ~45 minute periods.
+* The unit should culminate in a provided formal assessment.
+  - This could be a project, presentation, test, etc.
+* The unit should contain all lessons, materials and assignments.
+* Everyone will present their unit plan over the course of the last few class sessions.
+* There will be class time for unit plan work & feedback.
+* We will spend time discussing unit plan next week.
+
 ## Course Content And Organization:
 
 * Week 1 - Introductions, What's In A Curriculum, How Are Courses Designed, NY State Standards
