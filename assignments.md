@@ -9,6 +9,17 @@
 #### Most asynchronous work will happen over slack.
 Asynchronous work is meant to take up the balance of our class time, since our live zoom sessions are only 1:15 long. Most often, asynchronous activities will take place as discussions over slack in the \#async_curdev slack channel. Usually, you will be asked to post and then respond to posts from others. As such, it is important to the whole class that you do not wait until the start of the following class to do your asynchronous work. If possible, take the remaining time at the end of our zoom sessions to at least add your post.
 
+
+# Session 03: 09/22 or 09/29
+## Assignment
+Fill out the following sections in your unit plan template:
+* General Overview
+* Motivation for Unit
+* Standards Referenced
+
+## Asynchronous:
+Use your asybnchrous time to get some movement on your fieldwork. Either recrod & upload a class, or observe/watch someone else. Don't forget to log it on your spreadsheet.
+
 ---
 
 # Session 02: 09/15
