@@ -113,9 +113,9 @@ The final project for this class will be a unit plan.
   * Assignment:
     * What CS class would you like to develop?
 
-* Week 4 - Forming Curriculum Groups, Filedwork Observation planning
-  * Asyn discussion:
-    * Start to fill out the fieldwork pairing grid: https://docs.google.com/spreadsheets/d/1-PMLanyRCiPXh0XkTkidjq4Tpoz8PNJv7vY66qN5__g/edit#gid=0
+* Week 4/5 - Forming Curriculum Groups, Filedwork Observation planning
+  * Asynch :
+    * Start to fill out the fieldwork:
   * Assignment:
     * Create your unit plan proposal.
 
