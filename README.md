@@ -76,6 +76,8 @@ The final project for this class will be a unit plan.
 * Everyone will present their unit plan over the course of the last few class sessions.
 * There will be class time for unit plan work & feedback.
 
+
+
 ## Course Content And Organization:
 
 * Week 1 - Introductions, What's In A Curriculum, How Are Courses Designed, NY State Standards
