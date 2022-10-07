@@ -27,14 +27,14 @@ Asynchronous work is meant to take up the balance of our class time, since our l
 
 ## Asynchronous:
 Pick 2 (or more) of the languages looked at in class other than the one you discussed in your breakout room. Perform a similar analysis on them as you did in class. Use that imformation to help inform your choice for the assignment.
-1: Processing https://processing.org/
-  * Sample: https://processing.org/examples/setupdraw.html
-2: Scratch/Snap https://scratch.mit.edu/
-3: Netlogo https://ccl.northwestern.edu/netlogo/
-  * Sample: http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Evolution/Genetic%20Drift/GenDrift%20P%20global.nlogo
-4: Javscript https://www.javascript.com/
-  * Resources: https://www.javascript.com/resources
-5: Racket/Scheme https://docs.racket-lang.org/quick/
+1. Processing: <https://processing.org/>
+   * Sample: <https://processing.org/examples/setupdraw.html>
+2. Scratch/Snap: <https://scratch.mit.edu/>
+3. Netlogo <https://ccl.northwestern.edu/netlogo/>
+   * Sample: <http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Evolution/Genetic%20Drift/GenDrift%20P%20global.nlogo>
+4. Javscript <https://www.javascript.com/>
+   * Resources: <https://www.javascript.com/resources>
+5. Racket/Scheme <https://docs.racket-lang.org/quick/>
 
 ---
 
