@@ -1,3 +1,5 @@
+#Kirk Martin
+
 # SEDC 73600: Curriculum Design For Computer Science
 
 ### Department Of Curriculum & Teaching / Computer Science Education
