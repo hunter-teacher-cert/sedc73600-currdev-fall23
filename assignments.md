@@ -17,7 +17,7 @@ Asynchronous work is meant to take up the balance of our class time, since our l
   * Describe the assignment, including student facing instructions in a markdown file. Save this file in your own personal work repository.
   * This is individual work, that can be incorperated into your unit plan later.
 
-# Asynchronous
+## Asynchronous
 * In the \#async_curdev slack channel:
   * Make a post describing an assignment that you are proud of.
     - Make this post by Monday so that others can respond.
