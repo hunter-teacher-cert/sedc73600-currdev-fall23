@@ -12,7 +12,7 @@ Asynchronous work is meant to take up the balance of our class time, since our l
 # Session 06: 10/27
 ## Assignment
 *  filename: **tools.md**
-  * Desribe 2 technological tools you currently use in your classroom. One of which should be a programming tool (if possible). Include:
+* Desribe 2 technological tools you currently use in your classroom. One of which should be a programming tool (if possible). Include:
   - The name of the tool.
   - What its general purpose is.
   - The class(es) you use it in.
