@@ -9,6 +9,20 @@
 #### Most asynchronous work will happen over slack.
 Asynchronous work is meant to take up the balance of our class time, since our live zoom sessions are only 1:15 long. Most often, asynchronous activities will take place as discussions over slack in the \#async_curdev slack channel. Usually, you will be asked to post and then respond to posts from others. As such, it is important to the whole class that you do not wait until the start of the following class to do your asynchronous work. If possible, take the remaining time at the end of our zoom sessions to at least add your post.
 
+# Session 06: 10/27
+## Assignment
+*  filename: **tools.md**
+  * Desribe 2 technological tools you currently use in your classroom. One of which should be a programming tool (if possible). Include:
+  - The name of the tool.
+  - What its general purpose is.
+  - The class(es) you use it in.
+  - How you use it in class.
+  - Why you have selected that tool for that purpose?
+
+## Async
+* In the \#async_curdev slack channel:
+  - Pick two different tech tools that fall under the same general category (like IDE, communication ). Provide a brief description of each, then compare and contrast them. Do you have a recommendation?
+
 
 # Session 05: 10/13
 ## Assignment
@@ -17,7 +31,7 @@ Asynchronous work is meant to take up the balance of our class time, since our l
   * Describe the assignment, including student facing instructions in a markdown file. Save this file in your own personal work repository.
   * This is individual work, that can be incorperated into your unit plan later.
 
-# Asynchronous
+## Asynchronous
 * In the \#async_curdev slack channel:
   * Make a post describing an assignment that you are proud of.
     - Make this post by Monday so that others can respond.

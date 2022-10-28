@@ -76,6 +76,15 @@ The final project for this class will be a unit plan.
 * Everyone will present their unit plan over the course of the last few class sessions.
 * There will be class time for unit plan work & feedback.
 
+Unit plans will be evaluated based on the following Criteria:
+- Unit size: Does your unit cover the prescribed 2 weeks - 45 minute a day, amount of work.
+- Unit lesson content: do each of the lessons/activities have enough material for another teacher to deliver the content.
+  - Lessons should be full lesson plans that someone else (that understands the language) could use to deliver the intended unit.
+  - This includes all student facing materials (assessments, notes, assignments, etc) as well as teacher facing materials (lecture/discussion content, key points, prompts, solutions, etc)
+- Unit standards: Is the content aligned with state standards, are the standards clearly indicated.
+- Unit lesson flow / cohesion: Are your lessons sequenced in a sensible way, do they build upon prior lessons.
+- Selection of tools: Are the technical and non-technical tools used in the unit appropriate for the content and intended audience?
+
 
 
 ## Course Content And Organization:
