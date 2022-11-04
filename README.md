@@ -88,6 +88,7 @@ Unit plans will be evaluated based on the following Criteria:
 __Unit Plan Repository Organization__:
 
 Every Unit Plan repository should have the following.
+* Example repository: <https://github.com/hunter-teacher-cert/unit_plan-example>
 * README.md: Unit plan template
 * lessons/
   - Folder containing separate folders for each lesson.
