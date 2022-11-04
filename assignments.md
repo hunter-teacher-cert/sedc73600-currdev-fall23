@@ -9,6 +9,19 @@
 #### Most asynchronous work will happen over slack.
 Asynchronous work is meant to take up the balance of our class time, since our live zoom sessions are only 1:15 long. Most often, asynchronous activities will take place as discussions over slack in the \#async_curdev slack channel. Usually, you will be asked to post and then respond to posts from others. As such, it is important to the whole class that you do not wait until the start of the following class to do your asynchronous work. If possible, take the remaining time at the end of our zoom sessions to at least add your post.
 
+# Session 07: 11/03
+## Assignment
+* Finish the unit plan template
+  - This should be the README.md file in your main unit plan repository.
+  - Based on the previous assignment these things should be added:
+    - Tools used
+    - External resources
+    - Lessons
+      - This should be the sequence of lessons and their topics.
+    - Assessments
+      - This should be a list/brief description of any assessments.
+
+
 # Session 06: 10/27
 ## Assignment
 *  filename: **06_tools.md**
