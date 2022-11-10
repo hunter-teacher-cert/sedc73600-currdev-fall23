@@ -134,7 +134,6 @@ Every Unit Plan repository should have the following.
     * [PLTW](https://www.pltw.org/computer-science-principles-course-outline)
     * [UTEACH](https://live-uteach-cs.pantheonsite.io/sites/default/files/UTeach%20CS%20Principles%20Course%20Syllabus%20and%20Planning%20Guide.pdf)
   * Fieldwork overview & discussion.
-  * Presentation of an APCS A curricula.
   * Async Discussion:
     * Share and compare the disparate CSP curricula.
   * Assignment:
@@ -142,7 +141,7 @@ Every Unit Plan repository should have the following.
 
 * Week 3 - Case Study Of A Locally Designed Class And Fieldwork Staging
   * Presentation of the development of Stuyvesant High School's Introduction to Computer Science course.
-  * Costs and Benefits of creating your own curriculum.
+  * Costs and Benefits of creating your own course.
   * Async discussion:
     * Redeisgn a lesson or project for a CS class you currently teach.
   * Assignment:
@@ -154,7 +153,7 @@ Every Unit Plan repository should have the following.
   * Assignment:
     * Create your unit plan proposal.
 
-* Week 5 - Evaluating Programming Languages for Education
+* Week 6 - Evaluating Programming Languages for Education
   - Programming paradigms.
   - Educational vs "Real World" languages.
   - Assessing the strengths and weaknesses of a lanuage, using them to help teach content.
@@ -164,7 +163,7 @@ Every Unit Plan repository should have the following.
   - Assignment:
     - Respond to unit plan feedback and update proposal accordingly.
 
-* Week 6 - Developing Assignments
+* Week 7 - Developing Assignments
   - Different types of assignments & what they are designed to do.
   - Assignments that aid in learning, in assessment, both.
   - Async:
@@ -172,15 +171,7 @@ Every Unit Plan repository should have the following.
   - Assignment: Develop An In Class And An Out Of Class Assignment For Your Curriculum
   - Fieldwork Sharing
 
-* Week 7 - Putting a Face to CS concepts
-
-* Week 8 - Unit Development Workshop
-  * Fieldwork Sharing
-
-* Week 9 - Computer Science Education in Elementary (K-5) Grades
-  * Fieldwork Sharing
-
-* Week 10 - Using Technical Tools And Integrating Them Into Classes
+* Week 8 - Using Technical Tools And Integrating Them Into Classes
   - What kind of technical tools are useful in the CS classroom?
   - What should be taken into consideration when selecting a technical tool.
   - Async:
@@ -189,6 +180,11 @@ Every Unit Plan repository should have the following.
     * Add a tech tools section to your unit plan.
     * Include the names of the tools, what they do in general, how you will use them for the unit and why you chose them.
   * Fieldwork Sharing
+
+* Week 9 - Unit Development Workshop
+  * Fieldwork Sharing
+
+* Week 10 - Grading
 
 * Week 11 - Including Ancillary Topics And Techniques Social, Societal, And Ethical Issues Cross Curricular Topics
   * Assignment: Develop A Lesson Plan For A Class In Your Curriculum Highlighting How It Incorporates These Topics
