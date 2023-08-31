@@ -2,11 +2,11 @@
 
 ### Department Of Curriculum & Teaching / Computer Science Education
 ### Hunter College, Cuny
-### Fall Semester 2022
-### Professors Jonalf Dyrland-Weaver, Samuel Konstantinovich
+### Fall Semester 2023
+### Professor JonAlf Dyrland-Weaver
 ### Class Time: Thursdays, 7:00pm - 8:15pm
-### Office Hours: JonAlf: Tuesday 5-6pm, Sam:  and By Appointment
-### Email JonAlf: jd5122@hunter.cuny.edu, Sam: sk7648@hunter.cuny.edu
+### Office Hours (DM to turn on a meeting): JonAlf: Tuesday 5-6pm,  also By Appointment
+### Email JonAlf: jd5122@hunter.cuny.edu
 
 ### Class Zoom link: https://us02web.zoom.us/j/81238608714?pwd=WkptZUROUXNIVDdkNkEySGtLY3N1UT09
 ### Program slack link: https://hunterteacher-vyz6159.slack.com
@@ -59,57 +59,6 @@ In Schools Selected By The College.
   * Make a copy of the fieldwork log: https://docs.google.com/spreadsheets/d/1YZQN9oPk27G1VdN3a9Fvj1SCG4b9M6rYzX0_Fd1VNWc/edit#gid=0
     - After making the copy, please add your name to the title (e.g. JonAlf Dyrland-Weaver Fall 2022 Fieldwork Log)
     - Share it with zamansky@gmail.com, dw@stuycs.org, and konstans@stuy.edu
-  * Upload videos here: https://drive.google.com/drive/folders/13901KCgDwPHEZjEN0tlrGIEzzTzAbSAB?usp=sharing
-    - Make a folder NAME - GRADE LEVEL
-    - Name videos based on topic inside folder
-    - You can find the consent forms here: <https://drive.google.com/drive/u/0/folders/1uhZEscJgR2TwVPAtz7wzb8JgAtSW2jND>
-
-## Unit Plan Project
-The final project for this class will be a unit plan.
-* You may work individually, opr in groups up to 3 people large.
-* Unit plan for a course/unit you have not taught.
-* The plan must cover at least a two week long unit.
-  - This may vary depending on your particular school schedule. Consider 10 ~45 minute periods.
-* The unit should culminate in a provided formal assessment.
-  - This could be a project, presentation, test, etc.
-* The unit should contain all lessons, materials and assignments.
-* Everyone will present their unit plan over the course of the last few class sessions.
-* There will be class time for unit plan work & feedback.
-
-Unit plans will be evaluated based on the following Criteria:
-- Unit size: Does your unit cover the prescribed 2 weeks - 45 minute a day, amount of work.
-- Unit lesson content: do each of the lessons/activities have enough material for another teacher to deliver the content.
-  - Lessons should be full lesson plans that someone else (that understands the language) could use to deliver the intended unit.
-  - This includes all student facing materials (assessments, notes, assignments, etc) as well as teacher facing materials (lecture/discussion content, key points, prompts, solutions, etc)
-- Unit standards: Is the content aligned with state standards, are the standards clearly indicated.
-- Unit lesson flow / cohesion: Are your lessons sequenced in a sensible way, do they build upon prior lessons.
-- Selection of tools: Are the technical and non-technical tools used in the unit appropriate for the content and intended audience?
-
-__Unit Plan Repository Organization__:
-
-Every Unit Plan repository should have the following.
-* Example repository: <https://github.com/hunter-teacher-cert/unit_plan-example>
-* README.md: Unit plan template
-* lessons/
-  - Folder containing separate folders for each lesson.
-  - Each sub-folder should be named __##\_TOPIC__ i.e. __00\_intro__
-  - A lesson plan should be a pdf file.
-    - We will not specify a specific format for lesson plans, but each one should include all lesson components including (but not limited to):
-      - Main objective
-      - Standards
-      - In class exercises
-      - Notes
-      - Resources
-      - Assignments
-  - Each lesson folder should only contain:
-    - PDF files
-    - Source code files
-    - Images
-* assessments/
-  - Any assessments & their associated rubrics
-  - Even if the assessment is also in a lesson folder, it should also be placed in this folder.
-* resources/
-  - Folder containing any extra resources
 
 ## Course Content And Organization:
 
@@ -120,7 +69,7 @@ Every Unit Plan repository should have the following.
  * Async discussion:
     * Sharing local school curriculum decisions.
   - Assignment
-    - Pick 2 different CS standards, for each descibe a task that addresses the standard and explain how.
+    - Pick 2 different CS standards, for each describe a task that addresses the standard and explain how.
 
 * Week 2 - Survey Of Existing Cs Curricula (Apcsa, Apcsp, Others)
   * Async pre-work & discussion:
@@ -134,6 +83,7 @@ Every Unit Plan repository should have the following.
     * [PLTW](https://www.pltw.org/computer-science-principles-course-outline)
     * [UTEACH](https://live-uteach-cs.pantheonsite.io/sites/default/files/UTeach%20CS%20Principles%20Course%20Syllabus%20and%20Planning%20Guide.pdf)
   * Fieldwork overview & discussion.
+  * Presentation of an APCS A curricula.
   * Async Discussion:
     * Share and compare the disparate CSP curricula.
   * Assignment:
@@ -141,19 +91,19 @@ Every Unit Plan repository should have the following.
 
 * Week 3 - Case Study Of A Locally Designed Class And Fieldwork Staging
   * Presentation of the development of Stuyvesant High School's Introduction to Computer Science course.
-  * Costs and Benefits of creating your own course.
+  * Costs and Benefits of creating your own curriculum.
   * Async discussion:
     * Redeisgn a lesson or project for a CS class you currently teach.
   * Assignment:
     * What CS class would you like to develop?
 
-* Week 4/5 - Forming Curriculum Groups, Filedwork Observation planning
-  * Asynch :
-    * Start to fill out the fieldwork:
+* Week 4 - Forming Curriculum Groups, Filedwork Observation planning
+  * Asyn discussion:
+    * Start to fill out the fieldwork pairing grid: https://docs.google.com/spreadsheets/d/1-PMLanyRCiPXh0XkTkidjq4Tpoz8PNJv7vY66qN5__g/edit#gid=0
   * Assignment:
     * Create your unit plan proposal.
 
-* Week 6 - Evaluating Programming Languages for Education
+* Week 5 - Evaluating Programming Languages for Education
   - Programming paradigms.
   - Educational vs "Real World" languages.
   - Assessing the strengths and weaknesses of a lanuage, using them to help teach content.
@@ -163,7 +113,7 @@ Every Unit Plan repository should have the following.
   - Assignment:
     - Respond to unit plan feedback and update proposal accordingly.
 
-* Week 7 - Developing Assignments
+* Week 6 - Developing Assignments
   - Different types of assignments & what they are designed to do.
   - Assignments that aid in learning, in assessment, both.
   - Async:
@@ -171,7 +121,22 @@ Every Unit Plan repository should have the following.
   - Assignment: Develop An In Class And An Out Of Class Assignment For Your Curriculum
   - Fieldwork Sharing
 
-* Week 8 - Using Technical Tools And Integrating Them Into Classes
+* Week 7 - Different Approaches To Curriculum Development
+  * Slideshare On Curriculum Approaches: [[Http://Www.Slideshare.Net/Iansagabaen28/Curriculum-Approaches-41755984]{.Ul}](Http://Www.Slideshare.Net/Iansagabaen28/Curriculum-Approaches-41755984)
+  * [University of Pretoria resource on Curricular Approaches]: (https://repository.up.ac.za/bitstream/handle/2263/24169/02chapter2.pdf?sequence=3&isAllowed=y)
+  * Async
+    * Discussion of curricular approaches observed in schools.
+  * Assignment
+    * Pick a curricular approach and a class that you think is well suited for that approach.
+    * Describe why you chose that curricular approach, and why you felt it was well suited to the class you selected.
+
+* Week 8 - Unit Development Workshop
+  * Fieldwork Sharing
+
+* Week 9 - Computer Science Education in Elementary (K-5) Grades
+  * Fieldwork Sharing
+
+* Week 10 - Using Technical Tools And Integrating Them Into Classes
   - What kind of technical tools are useful in the CS classroom?
   - What should be taken into consideration when selecting a technical tool.
   - Async:
@@ -180,11 +145,6 @@ Every Unit Plan repository should have the following.
     * Add a tech tools section to your unit plan.
     * Include the names of the tools, what they do in general, how you will use them for the unit and why you chose them.
   * Fieldwork Sharing
-
-* Week 9 - Unit Development Workshop
-  * Fieldwork Sharing
-
-* Week 10 - Grading
 
 * Week 11 - Including Ancillary Topics And Techniques Social, Societal, And Ethical Issues Cross Curricular Topics
   * Assignment: Develop A Lesson Plan For A Class In Your Curriculum Highlighting How It Incorporates These Topics
