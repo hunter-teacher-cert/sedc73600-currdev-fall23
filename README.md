@@ -57,8 +57,8 @@ In Schools Selected By The College.
   * Most fieldwork will consist of observing other teachers, being observed by fellow candidates & having post observation discussions.
   * Some of the fieldwork must be in the K-5 space, we are working on providing opportunities to work with K-5 teachers in addition to those enrolled in the class.
   * Make a copy of the fieldwork log: https://docs.google.com/spreadsheets/d/1YZQN9oPk27G1VdN3a9Fvj1SCG4b9M6rYzX0_Fd1VNWc/edit#gid=0
-    - After making the copy, please add your name to the title (e.g. JonAlf Dyrland-Weaver Fall 2022 Fieldwork Log)
-    - Share it with zamansky@gmail.com, dw@stuycs.org, and konstans@stuy.edu
+    - After making the copy, please add your name to the title (e.g. JonAlf Dyrland-Weaver Fall 2023 Fieldwork Log)
+    - Share it with dw@stuycs.org
 
 ## Course Content And Organization:
 
