@@ -5,7 +5,7 @@
 ### Fall Semester 2023
 ### Professor JonAlf Dyrland-Weaver
 ### Class Time: Thursdays, 7:00pm - 8:15pm
-### Office Hours (DM to turn on a meeting): JonAlf: Tuesday 5-6pm,  also By Appointment
+### Office Hours (DM to turn on a meeting): Tuesday 5-6pm,  also By Appointment
 ### Email JonAlf: jd5122@hunter.cuny.edu
 
 ### Class Zoom link: https://us02web.zoom.us/j/81238608714?pwd=WkptZUROUXNIVDdkNkEySGtLY3N1UT09
