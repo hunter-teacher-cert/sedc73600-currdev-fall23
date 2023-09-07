@@ -11,6 +11,24 @@ Asynchronous work is meant to take up the balance of our class time, since our l
 
 
 ---
+# Session 01: 09/07
+## Assignment:
+* filename: **01_compare.md**
+* Compare two of the APCSP curricula that were provided (links bellow).
+* Focus on the following:
+  * Major differences
+  * Major similiarities
+  * Comparative streangths & weaknesses (That is does one cover a topic paticularly better/worse over the other. If both seem euqlly good then no need to comment).
+
+## Asynchronous:
+* Last week, you came up with an idea for a class you'd like to create. This week, see if you can find at least one example of an existing curriculum for that class.
+* In the \#async_curdev slack channel make a post with:
+  - Your find curriculum (remind us of the course).
+  - Your initial thoughts about it.
+  - How you found it (just google search? did you look for a specific source, etc.)
+
+
+---
 
 # Session 00: 08/31
 ## Assignment:
