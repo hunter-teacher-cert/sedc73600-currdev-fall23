@@ -18,7 +18,7 @@ Asynchronous work is meant to take up the balance of our class time, since our l
 * Focus on the following:
   * Major differences
   * Major similiarities
-  * Comparative streangths & weaknesses (That is does one cover a topic paticularly better/worse over the other. If both seem euqlly good then no need to comment).
+  * Comparative strengths & weaknesses (That is does one cover a topic particularly better/worse over the other, etc.).
 
 ## Asynchronous:
 * Last week, you came up with an idea for a class you'd like to create. This week, see if you can find at least one example of an existing curriculum for that class.
@@ -30,7 +30,7 @@ Asynchronous work is meant to take up the balance of our class time, since our l
 
 ---
 
-# Session 00: 08/31
+# Session 01: 08/31
 ## Assignment:
 * filename: **00_standards.md**
 * Imagine that you can create any Computer Science class you want. What would it be? For this assignment:
@@ -39,6 +39,7 @@ Asynchronous work is meant to take up the balance of our class time, since our l
   * Explain the motivation behind wanting to create the course.
   * List the NY State standards you believe you would cover in this course. [standards link](https://www.nysed.gov/sites/default/files/programs/curriculum-instruction/computer-science-digital-fluency-standards-k-12.pdf)
 
+================================================================================
 ## Asynchronous:
 * In the \#async_curdev slack channel:
 * Give a brief description of the course you want to develop as described in your assignment for this week.
