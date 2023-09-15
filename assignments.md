@@ -9,6 +9,21 @@
 #### Most asynchronous work will happen over slack.
 Asynchronous work is meant to take up the balance of our class time, since our live zoom sessions are only 1:15 long. Most often, asynchronous activities will take place as discussions over slack in the \#async_curdev slack channel. Usually, you will be asked to post and then respond to posts from others. As such, it is important to the whole class that you do not wait until the start of the following class to do your asynchronous work. If possible, take the remaining time at the end of our zoom sessions to at least add your post.
 
+---
+# Session 02: 09/14
+## Assignment:
+## Assignment
+* title: **02_sequence.md**
+  - In the past few assignments, you have been looking into creating a new course.
+  - Come up with the big units of the class, and provide a sequence for them.
+  - After listing the units in order, provide a narative describing _why_ you've ordered them that way. Thigns to consider:
+    - Necassary prior knowledge.
+    - Natrual segues.
+    - Natrul places to shift gears.
+    - etc.
+
+## Asynchronous:
+Use your asynchronouse time this week to get some fieldwork done. 
 
 ---
 # Session 01: 09/07
