@@ -10,20 +10,33 @@
 Asynchronous work is meant to take up the balance of our class time, since our live zoom sessions are only 1:15 long. Most often, asynchronous activities will take place as discussions over slack in the \#async_curdev slack channel. Usually, you will be asked to post and then respond to posts from others. As such, it is important to the whole class that you do not wait until the start of the following class to do your asynchronous work. If possible, take the remaining time at the end of our zoom sessions to at least add your post.
 
 ---
+# Session 03: 09/21
+## Assignment
+* title: **03_language.md**
+  - You have been working on an idea for a new course. Select the language that you will use in this course.
+  - Explain why your chosen language is the best option for your course. Include an evaluation of how the strengths of the language play to the core concepts of your course.
+  - Also explain what weaknesses your chosen language may have. How would you mitigate them?
+  - Include what programming environment you will be using.
+
+## Asynchronous:
+* In the \#async_curdev slack channel:
+  1. Make a post about the language you presented in class. Include your answers to the guiding questions I had provided. Before making your post, try to write a program in the language, one or two steps above "hello world" (but it need not be too overboard). If your evaluation changed after programming, explain why.
+  2. Pick 2 of the 3 other languages, read the post about them, then try to write a program in each. Reply to the post with additional comments you have about the language not covered by the original post.
+
+---
 # Session 02: 09/14
-## Assignment:
 ## Assignment
 * title: **02_sequence.md**
   - In the past few assignments, you have been looking into creating a new course.
   - Come up with the big units of the class, and provide a sequence for them.
-  - After listing the units in order, provide a narative describing _why_ you've ordered them that way. Thigns to consider:
-    - Necassary prior knowledge.
-    - Natrual segues.
-    - Natrul places to shift gears.
+  - After listing the units in order, provide a narrative describing _why_ you've ordered them that way. Things to consider:
+    - Necessary prior knowledge.
+    - Natural segues.
+    - Natural places to shift gears.
     - etc.
 
 ## Asynchronous:
-Use your asynchronouse time this week to get some fieldwork done. 
+Use your asynchronous time this week to get some fieldwork done.
 
 ---
 # Session 01: 09/07
@@ -32,7 +45,7 @@ Use your asynchronouse time this week to get some fieldwork done.
 * Compare two of the APCSP curricula that were provided (links bellow).
 * Focus on the following:
   * Major differences
-  * Major similiarities
+  * Major similarities
   * Comparative strengths & weaknesses (That is does one cover a topic particularly better/worse over the other, etc.).
 
 ## Asynchronous:
