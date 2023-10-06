@@ -10,6 +10,30 @@
 Asynchronous work is meant to take up the balance of our class time, since our live zoom sessions are only 1:15 long. Most often, asynchronous activities will take place as discussions over slack in the \#async_curdev slack channel. Usually, you will be asked to post and then respond to posts from others. As such, it is important to the whole class that you do not wait until the start of the following class to do your asynchronous work. If possible, take the remaining time at the end of our zoom sessions to at least add your post.
 
 ---
+## Session 05: 9/28
+# Assignment
+  * filename: **05_assignments.md**
+  * Develop two assignments that are different types for your unit plan.
+  * Describe the assignment, including student facing instructions in a markdown file.
+
+## Asynchronous:
+* In the \#async_curdev slack channel:
+- Make a post about the Python List assignment you developed in class. Be sure to include:
+  - A description of the assignment.
+  - The intention behind it (what do you want students to get out of it).
+- Provide feedback for the three other assignments posted.
+
+
+
+---
+## Session 04: 9/28
+## Asynchronous:
+* In the \#async_curdev slack channel:
+  Make a post talking about 1 particular style of assignment that you could use in the CS classroom. In the post, describe the style of assignment,  and what exactly its purpose is. Provide a concrete example as well.
+  Reply to 2 other posts with examples for that type of assignment.
+when I refer to style of assignment, I’m talking about things like homework, presentation, lab, etc. As opposed to specific examples of those things (which is the second part).
+
+---
 # Session 03: 09/21
 ## Assignment
 * title: **03_language.md**
