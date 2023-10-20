@@ -9,6 +9,18 @@
 #### Most asynchronous work will happen over slack.
 Asynchronous work is meant to take up the balance of our class time, since our live zoom sessions are only 1:15 long. Most often, asynchronous activities will take place as discussions over slack in the \#async_curdev slack channel. Usually, you will be asked to post and then respond to posts from others. As such, it is important to the whole class that you do not wait until the start of the following class to do your asynchronous work. If possible, take the remaining time at the end of our zoom sessions to at least add your post.
 
+---
+## Session 06: 10/19
+# Assignment
+  * filename: To be done in your unit plan overview document
+  * Devlop an initial draft of the summative assessment for your unit plan.
+    - If you are designing an exam, list the types of questions you will use, how many of each type and what content you will be looking to assess in the exam. (you do not need to include a full exam right now).
+    - If you are desining a presentation or project include student facing instructions, proposed timeline for students to complete the work, potential feedback mechanisms, etc.
+
+## Asynchronous:
+* In the \#async_curdev slack channel:
+- I will make 4 posts to be used as threads for this discussion. You should reply to each thread with 2 responses for each.
+- You will provide best practices and pitfalls to look out for when designing projects and presentations as summative assessments.
 
 ----
 ## Session 06: 10/12
